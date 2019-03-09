@@ -1,0 +1,93 @@
+body {
+      font-size: 16px;
+      color: #828282; 
+}
+h1, h2, h3 {
+      color: black;
+      margin: 0 0 20px 0; 
+}
+#side {
+      width: 38.2%;
+      position: fixed;
+      height: 100%;
+      background-size: cover;
+      background-position: center; 
+      padding: 0px 60px;
+      line-height: 2;
+}
+#logo {
+    padding-top: 20px; 
+}
+.port {
+    font-weight: 800;
+    letter-spacing: -3px;
+    color: #fff; 
+}
+#content {
+      margin-left: 38.1966%;
+      position: relative;
+      z-index: 999;
+      min-height: 600px;
+      padding-left: 70px;
+      padding-right: 70px; 
+}
+.up {
+      margin-bottom: 400px;
+      float: left;
+      width: 100%; }
+.intro {
+      margin-bottom: 30px;
+      width: 100%;
+      position: relative; 
+}
+h2 {
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: 600; 
+}
+.form {
+    float: left;
+    width: 40%;
+    position: relative; 
+}
+.form .form-control {
+    border-radius: 100px;
+    box-shadow: none;
+    box-shadow: none;
+    padding-right: 150px;
+    padding-left: 30px;
+    border: none;
+    background: #eeeeee;
+    height: 72px;
+    font-size: 18px;
+}
+.bot {
+    width: 122px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-weight: 700;
+    height: 72px;
+    font-size: 14px;
+    color: #fff;
+    border: none !important;
+    background: #0bbbe6;
+    color: #fff;
+    text-transform: uppercase;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    transition: 0.3s;
+    transition: 0.3s;
+    transition: 0.3s; 
+}
+.info {
+    color: white;
+    
+}
+h3 {
+   color: #fff;   
+}
+.hobby {
+    font-size: 150%;
+    font-weight: 600;
+}
